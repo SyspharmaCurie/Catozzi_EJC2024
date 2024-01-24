@@ -1,4 +1,4 @@
-# EJC2024
+# Catozzi et al. EJC 2024
 Source code related to the article: 
   Early Morning Immune Checkpoint Blockade and Overall Survival of Patients with Metastatic Cancer: an In-depth Chronotherapeutic Study,
   European Journal of Cancer (2024),
